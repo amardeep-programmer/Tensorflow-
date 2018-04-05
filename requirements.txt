@@ -3,4 +3,5 @@ matplotlib==2.2.0
 numpy==1.14.2
 tensorboard==1.7.0
 tensorflow==1.7.0
+ann-visualizer==1.8
 
