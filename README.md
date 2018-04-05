@@ -16,6 +16,15 @@ run the command in the terminal to install all the modules
 pip install -r requirements.txt
 and you are done !
 ```
+## For running Tensorboard
+
+
+For visualizing your graph model run the following command
+
+tensorboard --logdir=/the_directory_where_you_clone_the_repository
+ 
+ 
+
 
 ## License
 
